@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a74d917c-c1cf-442f-a1ad-fc63fd3c721c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VysCDn1MaYKPCuhyGhD4CgSfrF" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\teacherWorkSpace\jrl-portal\img" />
+      <recent name="E:\teacherWorkSpace\jrl-portal" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a74d917c-c1cf-442f-a1ad-fc63fd3c721c" name="Default Changelist" comment="" />
+      <created>1578236539975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578236539975</updated>
+      <workItem from="1578236542545" duration="3725000" />
+      <workItem from="1578291816226" duration="2225000" />
+      <workItem from="1578642251063" duration="49675000" />
+      <workItem from="1578960997681" duration="29281000" />
+      <workItem from="1579336776854" duration="25000" />
+      <workItem from="1579603832715" duration="53000" />
+      <workItem from="1579603917815" duration="73000" />
+      <workItem from="1579604154438" duration="2935000" />
+      <workItem from="1581068850547" duration="623000" />
+      <workItem from="1581577713241" duration="721000" />
+      <workItem from="1583752381948" duration="2317000" />
+      <workItem from="1583801766461" duration="4160000" />
+      <workItem from="1584320299072" duration="1314000" />
+      <workItem from="1584324726959" duration="235000" />
+      <workItem from="1584325050121" duration="606000" />
+      <workItem from="1584325678342" duration="212000" />
+      <workItem from="1584325912804" duration="135000" />
+      <workItem from="1584326069334" duration="83000" />
+      <workItem from="1584326173905" duration="5110000" />
+      <workItem from="1584407425832" duration="625000" />
+      <workItem from="1584493637835" duration="5492000" />
+      <workItem from="1584665330924" duration="2654000" />
+      <workItem from="1584965301170" duration="17014000" />
+      <workItem from="1585185026778" duration="2427000" />
+      <workItem from="1585485482691" duration="301000" />
+      <workItem from="1585486635972" duration="209000" />
+      <workItem from="1585487662103" duration="11418000" />
+      <workItem from="1585619134520" duration="27699000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="181" key="#Custom_Plugin_Repositories" timestamp="1584325212702">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Custom_Plugin_Repositories/0.0.1920.1040@0.0.1920.1040" timestamp="1584325212702" />
+    <state x="740" y="264" key="FileChooserDialogImpl" timestamp="1584326147420">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584326147420" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1584326151027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584326151027" />
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1585618047932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585618047932" />
+    <state x="647" y="275" width="646" height="490" key="find.popup" timestamp="1585755828646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="647" y="275" width="646" height="490" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585755828646" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/common.js</url>
+          <line>234</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/search.html</url>
+          <line>252</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/login.html</url>
+          <line>126</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
